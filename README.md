@@ -7,7 +7,7 @@ Challenge Project: Flashcards
 
 ### Author(s)
 [Dan Beaumont](https://github.com/BeaumontDan)
-**Date of Compleation:** ? March 2025
+**Date of Compleation:** 7 March 2025
 
 ## Description
 
